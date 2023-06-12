@@ -6,7 +6,7 @@
 
 # This is a work in progress Project!
 
-Currently only reading is possible and alot of possible bugs.
+Currently only reading is possible and contains alot of possible bugs.
 This Project has started out of boredom and may or may not be finished.
 
 ## Features
