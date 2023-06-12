@@ -1,8 +1,8 @@
-# Grandia.SGE.Core
+# Grandia.SGE
  
  Grandia 1 HD Remaster Savegame Editor
  
- ![image](https://github.com/Bappsack/Grandia.SGE/assets/28743231/6ab754e7-4a00-4575-ba0e-3a8f3608aa26)
+![image](https://github.com/Bappsack/Grandia.SGE/assets/28743231/9bc22ad5-5952-414c-b3ad-6ca8aae3777d)
 
 # This is a work in progress Project!
 
